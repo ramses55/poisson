@@ -17,5 +17,5 @@ A simple python code solving hard coded Poisson equation and plots solution
    pip install -r requirements.txt
 
 ## Usage
-    ```bash
-    python3 main.py 
+   ```bash
+   python3 main.py 
